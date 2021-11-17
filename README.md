@@ -1,6 +1,6 @@
 # LittleGameEngineTS TypeScript & Webpack Starter
 
-This is a barebones [LittleGameEngineTS](https://github.com/knopkem/LittleGameEngineTS) starter built using Typescript 4 & Webpack 5. It's a great starting place to jumpstart building your game! This repo is a template and can be used to [create your own repository](https://github.com/excaliburjs/template-ts-webpack/generate) in GitHub.
+This is a barebones [LittleGameEngineTS](https://github.com/knopkem/LittleGameEngineTS) starter built using Typescript 4 & Webpack 5. It's a great starting place to jumpstart building your game!
 
 
 ## Get Started
